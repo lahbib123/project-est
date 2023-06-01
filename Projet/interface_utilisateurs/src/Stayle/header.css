@@ -1,0 +1,11 @@
+li:hover{
+    color: black !important;
+}
+
+.li-my-hover a:hover {
+    color: black !important;
+    border-bottom: 2px solid;
+}
+.li-my-hover a{
+    border-bottom: 2px solid transparent;
+}
